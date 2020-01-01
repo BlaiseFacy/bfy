@@ -1,2 +1,2 @@
-let message = ""hello";
+let message = "hello";
 alert(message);
