@@ -1,2 +1,2 @@
-alert("hello");
+alert("hello les amis");
 alert("ciao");
