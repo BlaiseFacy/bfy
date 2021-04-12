@@ -3,3 +3,4 @@ alert("ciao");
 alert("hihi");
 alert("hoho");
 alert("modif sur ma branche");
+alert("modif après le merge");
