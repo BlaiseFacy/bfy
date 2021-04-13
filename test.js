@@ -7,5 +7,5 @@ alert("modif après le merge");
 alert("modif sur le master");
 alert("modif sur le master again");
 alert("modif branche 1");
-alert("modif branche 1");
 alert("modif branche 2");
+alert("modif branche 3");
