@@ -6,3 +6,4 @@ alert("modif sur ma branche");
 alert("modif après le merge");
 alert("modif sur le master");
 alert("modif sur le master again");
+alert("modif branche 1");
